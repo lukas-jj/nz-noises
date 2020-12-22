@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lukas-jj/nz-noises/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/lukas-jj/nz-noises/static/js/main.8e2fa6ad.chunk.js",
+    "main.js.map": "/lukas-jj/nz-noises/static/js/main.8e2fa6ad.chunk.js.map",
+    "runtime-main.js": "/lukas-jj/nz-noises/static/js/runtime-main.b9fe9512.js",
+    "runtime-main.js.map": "/lukas-jj/nz-noises/static/js/runtime-main.b9fe9512.js.map",
+    "static/js/2.905f46eb.chunk.js": "/lukas-jj/nz-noises/static/js/2.905f46eb.chunk.js",
+    "static/js/2.905f46eb.chunk.js.map": "/lukas-jj/nz-noises/static/js/2.905f46eb.chunk.js.map",
+    "static/js/3.4498394e.chunk.js": "/lukas-jj/nz-noises/static/js/3.4498394e.chunk.js",
+    "static/js/3.4498394e.chunk.js.map": "/lukas-jj/nz-noises/static/js/3.4498394e.chunk.js.map",
+    "index.html": "/lukas-jj/nz-noises/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/lukas-jj/nz-noises/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.905f46eb.chunk.js.LICENSE.txt": "/lukas-jj/nz-noises/static/js/2.905f46eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9fe9512.js",
+    "static/js/2.905f46eb.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.8e2fa6ad.chunk.js"
+  ]
+}
