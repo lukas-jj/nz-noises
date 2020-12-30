@@ -1,17 +1,18 @@
-import { useEffect, useState } from 'react'
-i
-
-
+import Tabs from "./Components/Tabs"
+import Nav from "./Components/Nav"
+import Recordings from "./Components/Recordings"
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'  
 function App() {
-
-
-
-
   return (
-    <div >
-        <h1>hi</h1>
-    </div>
-
+    <Router>
+    <div className="App">
+      <Nav />
+      <Switch>
+      <Route path="/tabs" component={Tabs} />
+      <Route path="/recordings" component={Recordings} />
+      </Switch>
+    </div> 
+    </Router>
   )
 }
 
