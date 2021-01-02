@@ -8,8 +8,8 @@ function Nav() {
           <Link to="/">
             <li>Home</li>
           </Link>
-          <Link to="/tabs">
-            <li>Tabs</li>
+          <Link to="/chords">
+            <li>Chords</li>
           </Link>
           <Link to="/recordings">
             <li>Recordings</li>

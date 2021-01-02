@@ -17,3 +17,24 @@ code {
   justify-content: space-around;
   list-style: none;
 }
+
+.page-header {
+background-color: pink;
+display: flex;
+justify-content: center;
+justify-content: center;}
+
+.sound-block{
+  display:flex;
+  align-items: center;
+  padding:10px 0px;
+}
+
+.song-chords {
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left:20px;
+  padding-bottom:10px;
+  word-spacing: 20px;
+}
