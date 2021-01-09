@@ -1,6 +1,5 @@
 import ReactPlayer from "react-player"
 
-import { useState } from 'react'
 
 function Sound(props) {
 
