@@ -4,17 +4,14 @@ function Recordings() {
     return (
         <div id="Recordings">
             <h1 className="page-header"> Recordings</h1>
-            <div className="sound-block">
+            <div>
                 <h2>1.</h2>
-                <Sound width="100%" url="https://soundcloud.com/ufotofu2/sandycrack" />
-            </div>
-            <div className="sound-block">
+                <Sound url="https://soundcloud.com/ufotofu2/sandycrack" />
                 <h2>2.</h2>
-                <Sound url="https://soundcloud.com/ufotofu2/sandycrack" />
-            </div>      <div className="sound-block">
+                <Sound  url="https://soundcloud.com/ufotofu2/synthwave-practice-4" />
                 <h2>3.</h2>
-                <Sound url="https://soundcloud.com/ufotofu2/sandycrack" />
-            </div>
+                <Sound  url="https://soundcloud.com/ufotofu2/track-1-fiver-melodic-audio" />
+                </div>
         </div>
     )
 }

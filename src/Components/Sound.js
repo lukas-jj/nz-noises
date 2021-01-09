@@ -6,7 +6,7 @@ function Sound(props) {
     return (
 
         <div className="Sound">
-            <ReactPlayer height="130px"
+            <ReactPlayer className="sound-block" width="80%" height="130px"
                 url={props.url}
             />
             {      console.log(ReactPlayer)

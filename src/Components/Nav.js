@@ -5,7 +5,7 @@ function Nav() {
     <div id="Nav">
       <nav>
         <ul className="nav-links">
-          <Link to="/">
+          <Link to="/nz-noises">
             <li>Home</li>
           </Link>
           <Link to="/chords">

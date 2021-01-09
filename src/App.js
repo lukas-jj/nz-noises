@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <Nav />
       <Switch>
-      <Route path="/" exact component={Home} />
+      <Route path="/nz-noises" exact component={Home} />
       <Route path="/chords" component={Chords} />
       <Route path="/recordings" component={Recordings} />
       </Switch>
