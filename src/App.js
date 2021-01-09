@@ -20,6 +20,7 @@ function App() {
 const Home = () => (
   <div className="Home">
     <h1 className="page-header">Home</h1>
+    <p>A place to store materials for band practice.</p>
   </div>
 )
 
